@@ -1,0 +1,21 @@
+ #clock {
+            font-family: "Couriew New";
+            background-color: #CCC;
+            border: solid #999 1px;
+            text-align: center;
+            color: #000;
+            width: 680px;
+            padding: 10px;
+        }
+
+        #date {
+            font-size: 20pt;
+        }
+
+        #time {
+            font-size: 42pt;
+        }
+
+        #city {
+            font-display: 20px;
+        }
